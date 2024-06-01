@@ -1,0 +1,9 @@
+numpy
+minisom
+Pillow
+joblib
+seaborn
+matplotlib
+datasets
+streamlit
+plotly
